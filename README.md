@@ -31,7 +31,7 @@ For the second part of the challenge, we would like you to fork **[this](https:/
 
 
 ### Important notes:
-- We expect this part of the challenge to take around **6 hours** to complete. 
+- We expect this part of the challenge to take around **6 hours** to complete.
 - There is no specific time limitations, so you can go at your own pace, **but please make sure to submit it within three days of registration!**
 - Once you have completed this part of the challenge, please fill out the **Google Form** that is mentioned at the bottom of this page with your forked repository.
 
@@ -109,7 +109,8 @@ curl -H 'Accept: application/json' -H "Authorization: Bearer ${TOKEN}" localhost
     - **[Java](auth_api/java)**
     - **[NodeJS](auth_api/node)**
 
-### Docker
+### Docker URL
+  ### https://hub.docker.com/r/alanflores1/wize-alan-flores-rodriguez
   * Dockerize the application located in **[src](/src)**
   * Push it to a public image in DockerHub tagged as **`wize-<firstName>-<lastName>:latest`**
   * Application should run in port **`8000`**
@@ -122,4 +123,3 @@ curl -H 'Accept: application/json' -H "Authorization: Bearer ${TOKEN}" localhost
 Remember, you must send your forked repository by filling out the following **[Google Form](https://forms.gle/rMVZJ8CnxoMaMPzb8)** within **three days of your registration date** to be considered for the Wizeline Academy SRE Bootcamp!
 
 Thanks for completing the challenge, we can’t wait to see you soon!
-
